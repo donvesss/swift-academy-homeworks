@@ -1,0 +1,65 @@
+.img{
+    margin-left: 205px;
+}
+
+main h2{
+    margin-left: 205px;
+    
+}
+
+.list{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.list li {
+    float: left;
+    
+}
+
+.date{
+    color: #739900;
+    margin-left: 205px;
+}
+
+.comment{
+    color:gray;
+    margin-left: 330px;
+}
+
+main ul li img{
+    width: 12px;
+    height: 12px;
+    
+}
+
+
+.text{
+    width: 500px;
+    margin-left: 230px;
+}
+
+.par{
+    padding-top: 20px;
+    clear: both;
+    color: #333333;
+}
+
+.read{
+    margin-left: 680px;
+    width: 110px;
+    height: 30px;
+    background-color: #001a33;
+    text-align: center;
+    padding-top: 6px;
+    
+}
+
+.read a {
+    text-decoration: none;
+    color: wheat;
+}
+
+.read:hover{
+   background-color: #009999; 
+}
